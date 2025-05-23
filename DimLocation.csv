@@ -1,0 +1,31 @@
+LocationID,Country,State,City
+1,USA,Texas,Austin
+2,USA,Texas,Dallas
+3,USA,Texas,Houston
+4,USA,California,Los Angeles
+5,USA,California,San Francisco
+6,USA,California,San Diego
+7,USA,New York,New York
+8,USA,New York,Buffalo
+9,USA,New York,Rochester
+10,USA,Florida,Miami
+11,USA,Florida,Orlando
+12,USA,Florida,Tampa
+13,Canada,Ontario,Toronto
+14,Canada,Ontario,Ottawa
+15,Canada,Ontario,Hamilton
+16,Canada,British Columbia,Vancouver
+17,Canada,British Columbia,Victoria
+18,Canada,British Columbia,Kelowna
+19,Canada,Quebec,Montreal
+20,Canada,Quebec,Quebec City
+21,Canada,Quebec,Laval
+22,UK,England,London
+23,UK,England,Manchester
+24,UK,England,Birmingham
+25,UK,Scotland,Edinburgh
+26,UK,Scotland,Glasgow
+27,UK,Scotland,Aberdeen
+28,UK,Wales,Cardiff
+29,UK,Wales,Swansea
+30,UK,Wales,Newport
