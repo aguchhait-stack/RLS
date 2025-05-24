@@ -1,31 +1,16 @@
-LocationID,Country,State,City,Email,ProductCategory,CityAccess,StateAccess,CountryAccess,ProductAccess
-1,USA,Texas,Austin,usa.user@corp.com,Furniture,LIMITED,LIMITED,LIMITED,LIMITED
-2,USA,Texas,Dallas,usa.user@corp.com,Furniture,LIMITED,ALL,ALL,ALL
-3,USA,Texas,Houston,usa.user@corp.com,Books,ALL,LIMITED,ALL,LIMITED
-4,USA,California,Los Angeles,usa.user@corp.com,Clothing,LIMITED,LIMITED,LIMITED,LIMITED
-5,USA,California,San Francisco,usa.user@corp.com,Furniture,LIMITED,LIMITED,ALL,LIMITED
-6,USA,California,San Diego,usa.user@corp.com,Clothing,ALL,LIMITED,ALL,ALL
-7,USA,New York,New York,usa.user@corp.com,Books,LIMITED,ALL,LIMITED,LIMITED
-8,USA,New York,Buffalo,usa.user@corp.com,Electronics,ALL,LIMITED,LIMITED,LIMITED
-9,USA,New York,Rochester,usa.user@corp.com,Electronics,ALL,LIMITED,LIMITED,LIMITED
-10,USA,Florida,Miami,usa.user@corp.com,Furniture,LIMITED,ALL,ALL,ALL
-11,USA,Florida,Orlando,usa.user@corp.com,Clothing,LIMITED,ALL,LIMITED,ALL
-12,USA,Florida,Tampa,usa.user@corp.com,Beverages,LIMITED,LIMITED,LIMITED,LIMITED
-13,Canada,Ontario,Toronto,canada.user@corp.com,Beverages,LIMITED,LIMITED,ALL,ALL
-14,Canada,Ontario,Ottawa,canada.user@corp.com,Furniture,ALL,LIMITED,LIMITED,LIMITED
-15,Canada,Ontario,Hamilton,canada.user@corp.com,Beverages,ALL,ALL,LIMITED,ALL
-16,Canada,British Columbia,Vancouver,canada.user@corp.com,Books,LIMITED,ALL,ALL,ALL
-17,Canada,British Columbia,Victoria,canada.user@corp.com,Clothing,ALL,LIMITED,LIMITED,ALL
-18,Canada,British Columbia,Kelowna,canada.user@corp.com,Furniture,LIMITED,LIMITED,ALL,LIMITED
-19,Canada,Quebec,Montreal,canada.user@corp.com,Electronics,LIMITED,ALL,ALL,LIMITED
-20,Canada,Quebec,Quebec City,canada.user@corp.com,Books,ALL,ALL,ALL,ALL
-21,Canada,Quebec,Laval,canada.user@corp.com,Furniture,ALL,LIMITED,LIMITED,ALL
-22,UK,England,London,uk.user@corp.com,Books,LIMITED,ALL,ALL,LIMITED
-23,UK,England,Manchester,uk.user@corp.com,Furniture,LIMITED,ALL,LIMITED,ALL
-24,UK,England,Birmingham,uk.user@corp.com,Electronics,ALL,ALL,LIMITED,ALL
-25,UK,Scotland,Edinburgh,uk.user@corp.com,Beverages,ALL,LIMITED,ALL,LIMITED
-26,UK,Scotland,Glasgow,uk.user@corp.com,Clothing,LIMITED,LIMITED,ALL,LIMITED
-27,UK,Scotland,Aberdeen,uk.user@corp.com,Books,ALL,ALL,LIMITED,LIMITED
-28,UK,Wales,Cardiff,uk.user@corp.com,Beverages,LIMITED,LIMITED,LIMITED,LIMITED
-29,UK,Wales,Swansea,uk.user@corp.com,Beverages,LIMITED,LIMITED,ALL,ALL
-30,UK,Wales,Newport,uk.user@corp.com,Electronics,LIMITED,ALL,LIMITED,LIMITED
+Country,State,City,Email,ProductCategory,CityAccess,StateAccess,CountryAccess,ProductAccess
+USA,New York,Buffalo,usa.user1@corp.com,Clothing,LIMITED,LIMITED,ALL,LIMITED
+USA,California,San Francisco,usa.user2@corp.com,Books,ALL,LIMITED,ALL,ALL
+USA,Texas,Austin,usa.user3@corp.com,Furniture,LIMITED,ALL,ALL,LIMITED
+USA,California,San Francisco,usa.user4@corp.com,Clothing,LIMITED,ALL,LIMITED,ALL
+USA,California,Los Angeles,usa.user5@corp.com,Books,ALL,LIMITED,LIMITED,LIMITED
+UK,England,London,uk.user1@corp.com,Books,LIMITED,ALL,LIMITED,ALL
+UK,Scotland,Glasgow,uk.user2@corp.com,Furniture,LIMITED,ALL,ALL,LIMITED
+UK,Wales,Swansea,uk.user3@corp.com,Electronics,LIMITED,ALL,LIMITED,LIMITED
+UK,Wales,Cardiff,uk.user4@corp.com,Furniture,ALL,ALL,ALL,ALL
+UK,Scotland,Edinburgh,uk.user5@corp.com,Electronics,LIMITED,LIMITED,LIMITED,ALL
+Canada,British Columbia,Victoria,canada.user1@corp.com,Furniture,ALL,ALL,LIMITED,ALL
+Canada,Ontario,Hamilton,canada.user2@corp.com,Furniture,LIMITED,LIMITED,LIMITED,ALL
+Canada,Ontario,Toronto,canada.user3@corp.com,Electronics,ALL,LIMITED,LIMITED,LIMITED
+Canada,British Columbia,Vancouver,canada.user4@corp.com,Furniture,ALL,ALL,ALL,LIMITED
+Canada,Ontario,Ottawa,canada.user5@corp.com,Books,ALL,LIMITED,ALL,ALL
