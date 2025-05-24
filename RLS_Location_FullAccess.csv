@@ -1,7 +1,7 @@
 Country,State,City,Email,ProductCategory,CityAccess,StateAccess,CountryAccess,ProductAccess,LocationID
 USA,New York,Buffalo,usa.user1@corp.com,Furniture,ALL,ALL,ALL,LIMITED,8
 USA,California,Los Angeles,usa.user2@corp.com,Electronics,ALL,LIMITED,LIMITED,ALL,1
-USA,New York,Buffalo,usa.user3@corp.com,Clothing,ALL,LIMITED,LIMITED,LIMITED,8
+USA,New York,Buffalo,usa.user3@corp.com,Clothing,LIMITED,LIMITED,LIMITED,LIMITED,8
 USA,California,Los Angeles,usa.user4@corp.com,Books,ALL,LIMITED,ALL,LIMITED,1
 USA,California,Los Angeles,usa.user5@corp.com,Furniture,LIMITED,LIMITED,ALL,LIMITED,1
 UK,Scotland,Edinburgh,uk.user1@corp.com,Books,ALL,ALL,ALL,LIMITED,13
